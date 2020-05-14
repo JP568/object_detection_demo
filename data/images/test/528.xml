@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>528.jpg</filename>
+	<path>C:\Users\Joao Pedro\OneDrive\Área de Trabalho\object_detection_demo-master\data\images\train\528.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hair dryer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>253</ymin>
+			<xmax>524</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2.jpg</filename>
+	<path>C:\Users\Joao Pedro\OneDrive\Área de Trabalho\object_detection_demo-master\data\images\train\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beard trimmer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>110</ymin>
+			<xmax>440</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gilete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>332</ymin>
+			<xmax>427</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>
